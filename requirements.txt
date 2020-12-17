@@ -1,0 +1,5 @@
+processing-py
+pillow
+canvasvg
+svglib
+reportlab
