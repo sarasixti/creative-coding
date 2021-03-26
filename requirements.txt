@@ -3,3 +3,4 @@ pillow
 canvasvg
 svglib
 reportlab
+opencv-python
