@@ -4,3 +4,4 @@ canvasvg
 svglib
 reportlab
 opencv-python
+big_sleep
